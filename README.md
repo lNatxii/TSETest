@@ -1,12 +1,6 @@
 # TSETest
 Proyecto para la realización de la prueba de Concepto y Habilidades en Unity
 
-## Entorno
-- **Unity**: 2019.4.5f1
-- **Plataforma de Construcción**: Android
-- **Lenguaje de Programación**: C#
-- **Modo de Compilación**: IL2CPP
-
 ## Funcionalidades
 
 ### 1. Solicitar Permisos de Ubicación
